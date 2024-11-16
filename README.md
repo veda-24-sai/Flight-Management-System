@@ -15,17 +15,20 @@ Features :
 Prerequisites :
 
   Software Requirements :
+  
     - NetBeans IDE 
+    
     - Java Development Kit (JDK)
+    
     - MySQL
 
 Dependencies :
 
    MySQL JDBC Driver :
   
-- Ensure the following JAR file is added to the project's library :
+    - Ensure the following JAR file is added to the project's library :
   
-    mysql-connector-java-8.0.28-bin.jar
+        mysql-connector-java-8.0.28-bin.jar
 
 Project Structure :
 
